@@ -1,0 +1,8 @@
+library(tidyverse)
+library(magrittr)
+library(ggiraph)
+library(smatr)
+library(glmmTMB)
+library(plotrix)
+library(sjPlot)
+library(gridExtra)

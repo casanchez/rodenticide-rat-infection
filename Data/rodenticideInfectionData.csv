@@ -1,0 +1,100 @@
+﻿Rat ID,Community Area,Mass (g),Tip to tip length (cm),Tail length (cm),Body length (cm),Ear length (mm),Hind foot length (mm),Sex,Leptospira,Ecoli,AR_type,AR_binary
+AS01,Armour Square,210,33.3,14,19.3,13.09,38.56,Male,0,0,0,0
+AS02,Armour Square,344,38.4,17.5,20.9,18.43,35.98,Male,0,1,0,0
+AS03,Armour Square,180,32.1,14.2,17.9,13.86,35.544,Male,0,1,0,0
+AS04,Armour Square,192,32,14.1,17.9,13.79,33.76,Female,0,1,0,0
+AS05,Armour Square,192,31.5,14.4,17.1,16.62,34.86,Male,0,0,0,0
+AS09,Armour Square,53,24.3,10.9,13.4,13.74,29.5,Female,0,1,0,0
+AS10,Armour Square,56,24.2,11,13.2,12.91,32.09,Female,0,1,0,0
+AS12,Armour Square,50,23.7,10.6,13.1,10.32,33.13,Male,1,1,0,0
+AS14,Armour Square,54,23.5,11,12.5,13.99,33.02,Female,0,0,0,0
+AS15,Armour Square,116,30.5,13.9,16.6,14.03,37.88,Male,0,0,Bromadiolone,1
+AS16,Armour Square,71,24.7,11.6,13.1,14.69,34.43,Male,0,1,0,0
+AS17,Armour Square,92,24.6,10,14.6,13.81,36.5,Male,0,0,0,0
+AS18,Armour Square,128,29.2,13.6,15.6,13.39,37.62,Female,0,1,0,0
+AS19,Armour Square,93,26.3,10.2,16.1,12.04,36.64,Male,0,1,0,0
+AS20,Armour Square,91,26.9,11.1,15.8,12.36,36.42,Male,0,1,0,0
+BE01,Beverly,73,16.6,8.3,8.3,11.73,17.33,Female,0,1,0,0
+ED01,Edge Water,135,25,12.1,12.9,13.83,34.94,Male,0,1,Bromadiolone,1
+ED02,Edge Water,518,41.5,20.5,21,16.43,42.81,Female,0,1,0,0
+EN01,Englewood,93,21,9.6,11.4,15.35,29.96,Male,0,1,0,0
+EN03,Englewood,231,35.6,16.9,18.7,15.31,39.92,Male,0,1,Brodifacoum,1
+EN05,Englewood,373,41.9,18.8,23.1,15.83,36.75,Male,0,0,0,0
+EN06,Englewood,99,22.9,10.1,12.8,13.24,31.92,Male,1,0,0,0
+FG02,Forest Glen,230,32.3,14.4,17.9,17.63,34.55,Female,0,1,0,0
+GG01,Greater Grand Crossing,290,42.2,17.4,24.8,19.96,43.17,Male,0,0,0,0
+GG03,Greater Grand Crossing,197,32.7,14.4,18.3,14.5,37.92,Female,0,0,0,0
+GG04,Greater Grand Crossing,330,40.4,18.1,22.3,12.8,43.58,Male,0,0,0,0
+GG05,Greater Grand Crossing,67,23.9,10.4,13.5,13.77,31.42,Female,0,1,0,0
+LS01,Logan Square,139,29.4,13.6,15.8,18.1,36.92,Male,0,1,0,0
+LS02,Logan Square,139,30.2,13.9,16.3,15.63,31.16,Female,0,0,0,0
+LS03,Logan Square,119,24.2,14.1,10.1,16.4,37.09,Female,0,0,0,0
+LS04,Logan Square,165,31.8,15.6,16.2,17.01,39.75,Male,0,1,0,0
+LS05,Logan Square,402,41.9,19.8,22.1,19.12,41.52,Female,1,1,Brodifacoum,1
+LS06,Logan Square,145,26.1,13,13.1,15.21,34.51,Female,0,0,0,0
+LS07,Logan Square,105,21.9,9.1,12.8,14.42,34.95,Female,0,0,0,0
+LS10,Logan Square,134,23.2,10.1,13.1,15.68,32.21,Male,0,0,0,0
+LS11,Logan Square,134,25.3,10.7,14.6,13.91,29.4,Male,0,0,0,0
+LS13,Logan Square,130,26.1,12.7,13.4,15.56,32.35,Female,0,0,0,0
+LS15,Logan Square,166,29.9,12.8,17.1,14.65,37.37,Female,0,0,0,0
+LS16,Logan Square,410,38.5,19,19.5,17.03,36.93,Female,0,0,0,0
+LS26,Logan Square,67,26.2,12.6,13.6,15.2,30.9,Female,0,0,0,0
+LS32,Logan Square,82,24.5,11.5,13,13.57,36.82,Female,0,0,0,0
+LS33,Logan Square,81,29.9,12.1,17.8,16.86,35.4,Male,0,0,0,0
+LS39,Logan Square,55,24.1,10.2,13.9,15.16,31.93,Female,0,0,0,0
+LV03,Lake View,93,24.7,10.1,14.6,13.86,31.3,Female,0,0,0,0
+LV04,Lake View,109,26.5,10.9,15.6,14.48,30.7,Female,0,0,0,0
+LV06,Lake View,109,24.6,11.2,13.4,14.92,31.85,Male,0,1,0,0
+LV07,Lake View,89,23.7,11.7,12,13.43,29.25,Female,0,1,0,0
+LV08,Lake View,396,43.5,18.4,25.1,18.3,38.05,Female,0,1,0,0
+LV09,Lake View,101,27.7,12.1,15.6,16.13,34.84,Male,0,1,0,0
+LV22,Lake View,222,31.5,14.1,17.4,17.04,37.91,Female,0,0,0,0
+LV23,Lake View,326,39,17.6,21.4,14.41,38.63,Female,0,1,0,0
+LV24,Lake View,175,29.7,11.8,17.9,16.78,36.16,Female,0,1,0,0
+LV25,Lake View,436,38.2,19.2,19,14.68,38.47,Female,1,1,0,0
+LV26,Lake View,217,32.9,14.9,18,14.52,38.38,Male,0,0,0,0
+LV27,Lake View,407,30.7,10.8,19.9,16.79,34.62,Female,1,0,0,0
+LV28,Lake View,98,21.4,9.5,11.9,11.01,29.98,Male,0,0,0,0
+LV34,Lake View,199,34.4,15.6,18.8,17.28,41.45,Male,0,0,0,0
+LV41,Lake View,66,23.9,11.1,12.8,13.56,33.86,Male,0,0,0,0
+LV45,Lake View,50,25.5,12,13.5,14.86,31.57,Female,0,1,0,0
+LV46,Lake View,51,24,10.4,13.6,12.44,32.37,Female,1,0,0,0
+LV49,Lake View,50,21.9,9.5,12.4,13.51,29.76,Female,1,0,0,0
+LV53,Lake View,138,30.8,12.6,18.2,15.25,34.7,Female,0,0,"Indandione, needs confirmation",1
+LV54,Lake View,166,31.1,13.8,17.3,16.96,39.83,Female,1,0,"Indandione, needs confirmation",1
+NC01,New City,320,47.8,19.5,28.3,19.07,43.2,Female,1,0,Brodifacoum,1
+NC03,New City,445,43.2,19.6,23.6,18.72,38.323,Female,0,0,0,0
+NC07,New City,81,26.8,12.2,14.6,15.48,34.41,Male,0,0,0,0
+NL01,North Lawndale,192,32.5,14.6,17.9,17.53,35.57,Female,0,0,0,0
+NL02,North Lawndale,97,21.8,9.4,12.4,16.7,30.4,Female,0,1,0,0
+NL04,North Lawndale,363,45.5,20.8,24.7,16.78,44.31,Female,1,1,0,0
+NL05,North Lawndale,100,22.4,11.6,10.8,14.11,32.79,Female,0,1,0,0
+NL06,North Lawndale,114,24.6,12,12.6,12.07,33.7,Male,0,0,0,0
+NN01,Near North Side,135,23.6,9.8,13.8,14.94,34.74,Female,0,0,0,0
+NN04,Near North Side,129,26.8,11.6,15.2,14.28,34.87,Female,0,1,0,0
+NN05,Near North Side,119,26.5,11.2,15.3,15.04,32.48,Female,0,1,0,0
+NN08,Near North Side,134,25.9,11.5,14.4,14.99,34.51,Female,0,1,0,0
+NN09,Near North Side,114,24.2,10.5,13.7,15.43,31.77,Male,0,0,0,0
+NN13,Near North Side,109,24.8,11.4,13.4,16.2,32.2,Female,0,1,0,0
+NN14,Near North Side,119,24.2,10.5,13.7,14.27,53.74,Male,0,1,0,0
+SL01,South Lawndale,156,29.6,13.4,16.2,17.64,34.75,Male,0,1,Difethialone,1
+SL02,South Lawndale,451,37.7,18.5,19.2,20.51,40.14,Female,0,0,0,0
+SL04,South Lawndale,154,29.2,12.3,16.9,15.09,34.8,Female,0,0,0,0
+SL05,South Lawndale,154,29.2,13.4,15.8,17.65,37.38,Female,0,0,0,0
+SL06,South Lawndale,223,33.2,13.8,19.4,15.58,38.05,Female,0,1,0,0
+SL07,South Lawndale,482,38.8,16.2,22.6,19.21,40.4,Female,0,1,0,0
+SL09,South Lawndale,151,28.2,14.8,13.4,16.04,37.27,Male,0,0,0,0
+SL10,South Lawndale,422,36.8,16.4,20.4,15.1,39.37,Female,0,0,0,0
+SL11,South Lawndale,267,35.4,17.1,18.3,16.26,41.06,Female,0,1,0,0
+SL15,South Lawndale,215,30.7,15.1,15.6,6.12,37.39,Female,0,0,"Indandione, needs confirmation",1
+SL16,South Lawndale,221,34.2,14.2,20,16.35,34.29,Female,0,1,0,0
+SL24,South Lawndale,455,46.4,21,25.4,17.63,38.14,Female,0,0,0,0
+SL26,South Lawndale,69,26.2,11.7,14.5,14.62,32.73,Female,0,0,0,0
+WP01,Washington Park,150,27.5,13.5,14,14.23,34.36,Male,0,0,0,0
+WR01,West Ridge,166,29.9,12.9,17,16.71,36,Female,0,0,0,0
+WR02,West Ridge,103,25.1,11.8,13.3,14.14,34.02,Female,0,1,Bromadiolone,1
+WR03,West Ridge,142,27.9,12.4,15.5,15.8,30.39,Female,0,0,0,0
+WR16,West Ridge,194,37,16,21,17.4,34.56,Female,0,0,0,0
+WR17,West Ridge,273,41.5,18.1,23.4,15.96,36.84,Female,0,0,0,0
+WR26,West Ridge,73,26,11.8,14.2,15.07,34.52,Female,0,0,0,0
+WR31,West Ridge,45,21.2,9.5,11.7,13.28,29.93,Female,0,0,0,0
