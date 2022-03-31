@@ -3,8 +3,8 @@
 A repository for: 
 ================
 
-Murray MH, Sánchez CA. in press. Urban rat exposure to anticoagulant rodenticides
-and zoonotic infection risk. Biology Letters.
+Murray MH, Sánchez CA. 2021. Urban rat exposure to anticoagulant rodenticides
+and zoonotic infection risk. Biology Letters. doi: 10.1098/rsbl.2021.0311
 
 
 **This repository has 5 R scripts used for this analysis:** The first script
